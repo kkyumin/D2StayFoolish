@@ -36,6 +36,12 @@ HungryOsori는 웹 크롤링 기반 Push 서비스 플랫폼입니다. 현재 An
 * PYFCM ( https://pypi.python.org/pypi/pyfcm/ )
 * FCM ( https://firebase.google.com/docs/cloud-messaging/?hl=ko )Scalable Layout ( https://github.com/ssomai/ScalableLayout ) Universal Image Loader ( https://github.com/nostra13/Android-Universal-Image-Loader ) 
 
+
+## 시연 동영상
+
+프로젝트 시연 동영상 ( https://youtu.be/ltyOt7gHFew )
+
+* 
 ## Contributors
 ### Android
 * [kkyumin](https://github.com/kkyumin) ( kkyumin@gmail.com )
@@ -43,7 +49,8 @@ HungryOsori는 웹 크롤링 기반 Push 서비스 플랫폼입니다. 현재 An
 ### Push Server
 
 * [doomsheart](https://github.com/doomsheart) ( doomsheart@naver.com )
-### API Server
+
+###API Server
 
 * [kjh32790] (https://github.com/kjh32790) (wlghd9398@naver.com)
 
