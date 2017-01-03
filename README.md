@@ -41,7 +41,7 @@ HungryOsori는 웹 크롤링 기반 Push 서비스 플랫폼입니다. 현재 An
 
 프로젝트 시연 동영상 ( https://youtu.be/ltyOt7gHFew )
 
-* 
+ 
 ## Contributors
 ### Android
 * [kkyumin](https://github.com/kkyumin) ( kkyumin@gmail.com )
