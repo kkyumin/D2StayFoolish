@@ -39,9 +39,12 @@ HungryOsori는 웹 크롤링 기반 Push 서비스 플랫폼입니다. 현재 An
 ## Contributors
 ### Android
 * [kkyumin](https://github.com/kkyumin) ( kkyumin@gmail.com )
+
 ### Push Server
+
 * [doomsheart](https://github.com/doomsheart) ( doomsheart@naver.com )
 ### API Server
+
 * [kjh32790] (https://github.com/kjh32790) (wlghd9398@naver.com)
 
 ## License
