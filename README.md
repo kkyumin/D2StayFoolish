@@ -38,7 +38,9 @@ Scrapy 1.2(https://scrapy.org/)
 
 * 서버 
 Django 1.10( https://www.djangoproject.com/ )
+
 Django-RestFramework 3.4( http://www.django-rest-framework.org/ )
+
 PYFCM 1.2( https://pypi.python.org/pypi/pyfcm/ )
 
 * 안드로이드
