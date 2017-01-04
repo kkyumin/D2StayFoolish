@@ -5,11 +5,12 @@ HungryOsori는 웹 크롤링 기반 Push 서비스입니다. 웹에서 컨텐츠
 
 ![img_architecture](./hungryosori_architecture.png)
 
-HungryOsori는 웹 크롤링 기반 Push 서비스 플랫폼입니다. 현재 Android와 IOS에서 구동 가능합니다. 
+HungryOsori는 웹 크롤링 기반 Push 서비스 플랫폼입니다. 현재 Android에서 구동 가능합니다. 
 
 * Crawler GitHub
  Crawler GitHub( https://github.com/HyOsori/Osori-WebCrawler )는 오픈소스 플랫폼인 HungryOsori에서 중요한 부분입니다. 오픈소스 유저들의 커밋을 통해 올라온 크롤러들은 Push서버에서 주기적으로 실행됩니다. 오픈소스 Scrapy를 이용해 개발했습니다. 추후 Readme 파일 업데이트를 통해 가이드라인을 올릴 예정입니다.
-* 서버
+
+ * 서버
 
 	서버는 Django를 이용했습니다. DB는 MYSQL를 이용했습니다.
 	또한 Restful FrameWork를 이용해 같은 URL로 다른 메소드를 통해 다른 함수를 사용할 수 있습니다.
@@ -31,10 +32,19 @@ HungryOsori는 웹 크롤링 기반 Push 서비스 플랫폼입니다. 현재 An
 
 
 ## 오픈소스 목록
-* Scrapy ( https://scrapy.org/)
-* RestFramework ( http://www.django-rest-framework.org/ ) Django ( https://www.djangoproject.com/ )
-* PYFCM ( https://pypi.python.org/pypi/pyfcm/ )
-* FCM ( https://firebase.google.com/docs/cloud-messaging/?hl=ko )Scalable Layout ( https://github.com/ssomai/ScalableLayout ) Universal Image Loader ( https://github.com/nostra13/Android-Universal-Image-Loader ) 
+* Crawler
+
+Scrapy ( https://scrapy.org/)
+
+* 서버 
+RestFramework ( http://www.django-rest-framework.org/ ) 
+Django ( https://www.djangoproject.com/ )
+PYFCM ( https://pypi.python.org/pypi/pyfcm/ )
+* 안드로이드
+
+FCM ( https://firebase.google.com/docs/cloud-messaging/?hl=ko )
+Scalable Layout ( https://github.com/ssomai/ScalableLayout ) 
+Universal Image Loader ( https://github.com/nostra13/Android-Universal-Image-Loader ) 
 
 
 ## 시연 동영상
