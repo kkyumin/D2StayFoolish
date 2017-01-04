@@ -55,7 +55,7 @@ Universal Image Loader 1.9.5 ( https://github.com/nostra13/Android-Universal-Ima
 프로젝트 시연 동영상 ( https://youtu.be/ltyOt7gHFew )
 * 개발중 찍은 것으로 Contributor들의 목소리가 들어가 있으니 소리를 끄고 봐주시면 감사드리겠습니다.
  
-## Contributors
+## Contributors -In stayfoolish team
 ### Android
 * [kkyumin](https://github.com/kkyumin) ( kkyumin@gmail.com )
 
