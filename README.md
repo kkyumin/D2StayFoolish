@@ -55,15 +55,18 @@ Universal Image Loader 1.9.5 ( https://github.com/nostra13/Android-Universal-Ima
 프로젝트 시연 동영상 ( https://youtu.be/ltyOt7gHFew )
 * 개발중 찍은 것으로 Contributor들의 목소리가 들어가 있으니 소리를 끄고 봐주시면 감사드리겠습니다.
  
-## Contributors -In stayfoolish team
-### Android
+## Contributors
+
+###StayFoolishTeam
+
+#### Android
 * [kkyumin](https://github.com/kkyumin) ( kkyumin@gmail.com )
 
-### Push Server
+#### Push Server
 
 * [doomsheart](https://github.com/doomsheart) ( doomsheart@naver.com )
 
-###API Server
+####API Server
 
 * [kjh32790] (https://github.com/kjh32790) (wlghd9398@naver.com)
 
