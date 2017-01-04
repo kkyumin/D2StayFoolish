@@ -34,22 +34,23 @@ HungryOsori는 웹 크롤링 기반 Push 서비스 플랫폼입니다. 현재 An
 ## 오픈소스 목록
 * Crawler
 
-Scrapy 1.2(https://scrapy.org/)
+	Scrapy 1.2(https://scrapy.org/)
 
 * 서버 
-Django 1.10( https://www.djangoproject.com/ )
 
-Django-RestFramework 3.4( http://www.django-rest-framework.org/ )
+	Django 1.10( https://www.djangoproject.com/ )
 
-PYFCM 1.2( https://pypi.python.org/pypi/pyfcm/ )
+	Django-RestFramework 3.4( http://www.django-rest-framework.org/ )
+
+	PYFCM 1.2( https://pypi.python.org/pypi/pyfcm/ )
 
 * 안드로이드
 
-FCM	( https://firebase.google.com/docs/cloud-messaging/?hl=ko )
+	FCM	( https://firebase.google.com/docs/cloud-messaging/?hl=ko )
 
-Scalable Layout 2.1.0( https://github.com/ssomai/ScalableLayout ) 
+	Scalable Layout 2.1.0( https://github.com/ssomai/ScalableLayout ) 
 
-Universal Image Loader 1.9.5 ( https://github.com/nostra13/Android-Universal-Image-Loader ) 
+	Universal Image Loader 1.9.5 ( https://github.com/nostra13/Android-Universal-Image-Loader ) 
 
 
 ## 시연 동영상
